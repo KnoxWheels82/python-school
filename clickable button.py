@@ -1,3 +1,4 @@
+#this was not part of school. I did this on my own.
 import tkinter as tk
 import time
 
